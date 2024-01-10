@@ -126,3 +126,10 @@ Read more about the above in the [Alchemy SDK Surface docs](https://docs.alchemy
 - What transfers did an address receive this year?
 
 Good luck and have fun!
+
+# What was done during the project
+
+1. User can enter the number of the block that interests him (before that current block is latest).
+2. System will show information about this block, including transactions hashes.
+3. User can retrieve information about any of this block transactions.
+4. Also user can see current balance of any Etherium address.
